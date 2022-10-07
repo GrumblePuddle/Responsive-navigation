@@ -1,1 +1,16 @@
-/*# sourceMappingURL=index.css.map */
+nav {
+  background-color: rgb(70, 70, 184);
+  max-width: 100vw;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+ul li {
+  float: left;
+  list-style-type: none;
+  padding: 10px 20px;
+}
+ul li:hover {
+  background-color: aqua;
+}/*# sourceMappingURL=index.css.map */
