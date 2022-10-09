@@ -1,6 +1,6 @@
+/* Highest pixel width*/
 
-
-@media screen and (min-width: 1001px) {
+@media screen and (min-width: 801px) {
     nav {
         background-color: rgb(70, 70, 184);
         max-width: 100vw;
@@ -41,9 +41,9 @@
 
 
 
+/*Mobile pixel width*/
 
-
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
     nav {
         background-color: rgb(70, 70, 184);
         max-width: 100vw;
